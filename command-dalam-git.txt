@@ -7,3 +7,6 @@ Perintah atau command dalam git :
 - branch
 - merge
 - remote
+- clone
+- push
+- pull
