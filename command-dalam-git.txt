@@ -9,4 +9,3 @@ Perintah atau command dalam git :
 - remote
 - clone
 - push
-- pull
