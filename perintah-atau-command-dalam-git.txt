@@ -1,0 +1,12 @@
+Perintah atau command dalam git :
+
+- repo
+- commit
+- hash
+- checkout
+- branch
+- merge
+- remote
+- clone
+- push
+- pull
