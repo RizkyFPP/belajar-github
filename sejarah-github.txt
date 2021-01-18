@@ -30,3 +30,7 @@ Pada tanggal 28 Februari 2018, GitHub menjadi korban serangan DoS terbesar sepan
 Pada tanggal 4 Juni 2018, Microsoft mengakuisisi GitHub sebesar 7,5 miliar dollar.
 
 Pada tanggal 19 Juni 2018, GitHub memperluas GitHub Education dengan menawarkan bundel pendidikan gratis ke semua sekolah.
+
+Selama bulan Desember 2012, GitHub, Inc. pada awalnya adalah sebuah organisasi datar tanpa manajer menengah; dengan kata lain, "semua orang adalah manajer" (self-management). Karyawan dapat memilih untuk bekerja pada proyek yang menarik bagi mereka (alokasi terbuka). Namun, gaji ditetapkan oleh kepala eksekutif.
+
+Pada tahun 2014, GitHub Inc. memperkenalkan lapisan manajemen menengah.
