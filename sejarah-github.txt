@@ -1,3 +1,8 @@
+GitHub adalah layanan hos web bersama untuk proyek pengembangan perangkat lunak yang menggunakan sistem kendali versi Git dan layanan hosting internet. Hal ini banyak digunakan untuk kode komputer. Ini memberikan kontrol akses dan beberapa fitur kolaborasi seperti pelacakan bug, permintaan fitur, manajemen tugas, dan wiki untuk setiap proyek.
+GitHub menawarkan paket repositori pribadi dan gratis pada akun yang sama dan digunakan untuk proyek perangkat lunak sumber terbuka. Pada bulan April 2017, GitHub melaporkan bahwa mereka mempunyai lebih dari 20 juta pengguna dan lebih dari 57 juta repositori, menjadikannya layanan terbesar dari kode sumber di dunia.
+GitHub mempunyai sebuah maskot yang bernama Octocat, seekor kucing dengan lima tentakel dan wajah seperti manusia.
+Pada tahun 2018, dilaporkan bahwa Microsoft mengakuisisi GitHub.
+
 GitHub didirikan pada tanggal 8 Februari 2008; 12 tahun lalu (sebagai Logical Awesome LLC).
 
 Pada tanggal 24 Februari 2009, anggota tim GitHub mengumumkan, dalam sebuah pembicaraan di markas besar Yahoo!, bahwa saat tahun pertama online, GitHub telah mengumpulkan lebih dari 46.000 repositori publik, 17.000 diantaranya dibuat pada bulan sebelumnya. Saat itu, sekitar 6.200 repositori telah bercabang dan 4600 telah digabung.
