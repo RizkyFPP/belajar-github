@@ -1,3 +1,5 @@
+GitHub didirikan pada tanggal 8 Februari 2008; 12 tahun lalu (sebagai Logical Awesome LLC).
+
 Pada tanggal 24 Februari 2009, anggota tim GitHub mengumumkan, dalam sebuah pembicaraan di markas besar Yahoo!, bahwa saat tahun pertama online, GitHub telah mengumpulkan lebih dari 46.000 repositori publik, 17.000 diantaranya dibuat pada bulan sebelumnya. Saat itu, sekitar 6.200 repositori telah bercabang dan 4600 telah digabung.
 
 Pada tanggal 5 Juli 2009, GitHub mengumumkan bahwa situs itu kini dimanfaatkan oleh lebih dari 100.000 pengguna. Pada tanggal 27 Juli 2009, Dalam pembicaraan lain yang disampaikan di Yahoo!, Tom Preston-Werner mengumumkan bahwa GitHub telah tumbuh menjadi tuan rumah 90.000 repositori publik yang unik, 12.000 yang telah bercabang, untuk total dari 135.000 repositori.
