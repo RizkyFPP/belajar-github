@@ -31,6 +31,8 @@ Pada tanggal 4 Juni 2018, Microsoft mengakuisisi GitHub sebesar 7,5 miliar dolla
 
 Pada tanggal 19 Juni 2018, GitHub memperluas GitHub Education dengan menawarkan bundel pendidikan gratis ke semua sekolah.
 
-Selama bulan Desember 2012, GitHub, Inc. pada awalnya adalah sebuah organisasi datar tanpa manajer menengah; dengan kata lain, "semua orang adalah manajer" (self-management). Karyawan dapat memilih untuk bekerja pada proyek yang menarik bagi mereka (alokasi terbuka). Namun, gaji ditetapkan oleh kepala eksekutif.
+Maskot GitHub adalah Octocat, seekor kucing betina antropomorfisme dengan lima lengan mirip gurita. Karakternya diciptakan oleh desainer grafis Simon Oxley sebagai clip art untuk dijual di iStock, sebuah situs web yang memungkinkan desainer memasarkan gambar digital bebas royalti.
 
-Pada tahun 2014, GitHub Inc. memperkenalkan lapisan manajemen menengah.
+GitHub menjadi tertarik pada karya Simon Oxley setelah Twitter memilih seekor burung yang Simon Oxley rancang untuk logo mereka. Ilustrasi yang dipilih GitHub adalah karakter yang dimiliki Simon Oxley dengan nama Octopuss.[34] Karena GitHub menginginkan Octopuss untuk logo mereka (penggunaan yang dilarang oleh lisensi iStock), mereka melakukan negosiasi dengan Simon Oxley untuk membeli hak eksklusif atas gambar tersebut.
+
+GitHub mengganti nama dari Octopuss ke Octocat,[34] dan merek dagang karakter bersama dengan nama baru. Kemudian, GitHub menyewa ilustrator Cameron McEfee untuk mengadaptasi Octocat untuk berbagai tujuan di situs web GitHub dan materi promosi; Cameron McEfee dan beberapa pengguna GitHub telah membuat ratusan variasi karakter.
